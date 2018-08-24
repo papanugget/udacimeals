@@ -1,0 +1,30 @@
+[
+    {
+    "id": "strawberry-pudding",
+    "name": "Strawberry Pudding",
+    "img": "strawberry-pudding.jpg",
+    "calories": 375,
+    "rating": 5
+    },
+    {
+    "id": "chicken-salad",
+    "name": "Chicken Salad",
+    "img": "chicken-salad.jpg",
+    "calories": 450,
+    "rating": 4.1
+    },
+    {
+    "id": "ham-sandwich",
+    "name": "Ham Sandwich",
+    "img": "ham-sandwich.jpg",
+    "calories": 255,
+    "rating": 3
+    },
+    {
+    "id": "chocolate-cookie",
+    "name": "Chocolate Chip Cookie",
+    "img": "chocolate-cookie.jpg",
+    "calories": 310,
+    "rating": 4.6
+    }
+]
